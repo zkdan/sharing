@@ -1,0 +1,69 @@
+[
+  {
+    "item" :"t-shirt",
+    "style": "palm tree logo",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "price": 18.50,
+    "currency": "CAD",
+    "colors": [
+      "green"
+    ]
+  },
+  {
+    "item": "capri pants",    
+    "style": "geometric pattern",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "price": 38,
+    "currency": "CAD",
+    "colors": [
+      "pink",
+      "black",
+      "white"
+    ]
+  },
+  {
+    "item": "hat",
+    "style": "knit beanie",
+    "sizes": [
+      "one size"
+    ],
+    "price": 14.50,
+    "currency": "CAD",
+    "colors": [
+      "orange",
+      "black",
+      "white"
+    ]
+  },
+  {
+    "item": "jacket",
+    "style": "duffel",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "price": 140,
+    "currency": "CAD",
+    "colors": [
+      "red",
+      "black",
+      "purple",
+      "blue"
+    ]
+  }
+]
